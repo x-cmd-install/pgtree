@@ -7,7 +7,7 @@ about:
   head: 949ec12
   archived: false
   latestVersion: 1.1.13
-  collectedAt: 2026-09-04T19:53:07Z
+  collectedAt: 2026-09-04T20:48:46Z
 timeline:
   created: 2020-08-08
   lastCommit: 2026-06-29
@@ -81,6 +81,54 @@ total:
   openIssue: 0
   commit: 250
 ---
+path: /home/runner/.x-repo/github.com/joknarf/pgtree
+collectedAt: 2026-09-04T20:48:47Z
+loc:
+  Python:
+    code: 654
+    comments: 15
+    blanks: 53
+    files: 3
+  Toml:
+    code: 50
+    comments: 0
+    blanks: 4
+    files: 1
+  ForgeConfig:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Bash:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Ksh:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Zsh:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 194
+    blanks: 71
+    files: 2
+  Text:
+    code: 0
+    comments: 10
+    blanks: 0
+    files: 1
+total:
+  code: 709
+  comments: 219
+  blanks: 128
+  files: 11
 ---
 date: "2026-08-24"
 repo:
