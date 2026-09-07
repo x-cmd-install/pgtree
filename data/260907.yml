@@ -5,7 +5,7 @@ about:
   head: 949ec12
   archived: false
   latestVersion: "1.1.13"
-  collectedAt: 2026-09-07T05:22:20Z
+  collectedAt: 2026-09-07T19:14:13Z
 timeline:
   created: 2020-08-08
   lastCommit: 2026-06-29
@@ -80,7 +80,7 @@ total:
   commit: 250
 ---
 path: /home/runner/.x-repo/github.com/joknarf/pgtree
-collectedAt: 2026-09-07T05:22:20Z
+collectedAt: 2026-09-07T19:14:13Z
 loc:
   Python:
     code: 654
@@ -244,7 +244,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/python-publish.yml:14'
 ---
 eget:
-  collectedAt: 2026-09-07T05:22:21+00:00
+  collectedAt: 2026-09-07T19:14:14+00:00
   platform:
     darwin/arm64:
       name:  null
