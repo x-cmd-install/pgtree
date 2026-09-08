@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12233,
       "digest": "sha256:b4421189d12cc70a0e5b12509a1e8122106a24953ecd89023cb6e5f940c635ed",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree.rpm"
