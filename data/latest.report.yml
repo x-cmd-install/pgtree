@@ -7,7 +7,7 @@ about:
   latestVersion: "1.1.13"
   latestRelease: "1.1.13"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:37:39Z
+  collectedAt: 2026-09-10T17:22:48Z
 timeline:
   created: 2020-08-08
   lastCommit: 2026-06-29
@@ -84,7 +84,7 @@ total:
   commit: 250
 ---
 path: /home/runner/.x-repo/github.com/joknarf/pgtree
-collectedAt: 2026-09-10T05:37:40Z
+collectedAt: 2026-09-10T17:22:48Z
 loc:
   Python:
     code: 654
