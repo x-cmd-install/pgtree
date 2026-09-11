@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6434,
       "digest": "sha256:2e80d9b70251e2fd0dc6494525a19e98ddfcfa33166c4df9499b86d469229aea",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-06-29T21:05:30Z",
       "updated_at": "2026-06-29T21:05:31Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree_1.1.13_all.apk"
