@@ -4,7 +4,7 @@
 
 Unix process hierachy tree for specific processes (mixed pgrep + pstree)
 
-[![x-cmd/install — pgtree Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pgtree.svg)](https://x-cmd.com/install/pgtree)
+[![x-cmd/install — pgtree Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pgtree.svg)](https://x-cmd.com/install/pgtree)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **709** lines of code across **7** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.5 / 10**
+Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **SAST** (0/10) — no SAST tool detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-03-26 | 1 | 0 | 0 | 0 | 0 | 8 |
-| 360d | 2025-09-27 | 11 | 0 | 0 | 0 | 0 | 32 |
-| last720d | 2024-10-02 | 11 | 0 | 0 | 0 | 0 | 42 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 1 | 0 | 0 | 0 | 0 | 5 |
+| last180d | 2026-03-27 | 1 | 0 | 0 | 0 | 0 | 8 |
+| 360d | 2025-09-28 | 11 | 0 | 0 | 0 | 0 | 32 |
+| last720d | 2024-10-03 | 11 | 0 | 0 | 0 | 0 | 42 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pgtree lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:48:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:45:15Z._
