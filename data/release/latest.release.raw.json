@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12233,
       "digest": "sha256:b4421189d12cc70a0e5b12509a1e8122106a24953ecd89023cb6e5f940c635ed",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree-1.1.13-1.noarch.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7691,
       "digest": "sha256:7b5c01238f7e61c51b4119793436909cdb56d8daeb51a11de890e6594671881e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree-1.1.13.pkg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7691,
       "digest": "sha256:7b5c01238f7e61c51b4119793436909cdb56d8daeb51a11de890e6594671881e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree.pkg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12233,
       "digest": "sha256:b4421189d12cc70a0e5b12509a1e8122106a24953ecd89023cb6e5f940c635ed",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 6133,
       "digest": "sha256:e122b98bc66d04877fd59bc01dca4b11fd21672ba34241603006499a720eb038",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6361,
       "digest": "sha256:45a32576911d0270bfdeb55456cee433ffdfa6ddde57a5250d9ef919af1ef42f",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree.zip"
