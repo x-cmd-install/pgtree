@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6434,
       "digest": "sha256:2e80d9b70251e2fd0dc6494525a19e98ddfcfa33166c4df9499b86d469229aea",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-29T21:05:30Z",
       "updated_at": "2026-06-29T21:05:31Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree.apk"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12233,
       "digest": "sha256:b4421189d12cc70a0e5b12509a1e8122106a24953ecd89023cb6e5f940c635ed",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-29T21:06:11Z",
       "updated_at": "2026-06-29T21:06:11Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6434,
       "digest": "sha256:2e80d9b70251e2fd0dc6494525a19e98ddfcfa33166c4df9499b86d469229aea",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-06-29T21:05:30Z",
       "updated_at": "2026-06-29T21:05:31Z",
       "browser_download_url": "https://github.com/joknarf/pgtree/releases/download/1.1.13/pypgtree_1.1.13_all.apk"
