@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.1.13` (2026-06-29)
-- **Last commit**: 2026-06-29
+- **Last commit**: 2026-11-15
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 250
+- **Releases**: 36 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 1 | 0 | 0 | 0 | 0 | 8 |
-| 360d | 2025-11-20 | 8 | 0 | 0 | 0 | 0 | 28 |
-| last720d | 2024-11-25 | 11 | 0 | 0 | 0 | 0 | 38 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-20 | 1 | 0 | 0 | 0 | 0 | 9 |
+| 360d | 2025-11-21 | 8 | 0 | 0 | 0 | 0 | 29 |
+| last720d | 2024-11-26 | 11 | 0 | 0 | 0 | 0 | 39 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for pgtree lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:36:48Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:45:08Z._
