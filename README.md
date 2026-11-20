@@ -48,12 +48,12 @@ Total: **709** lines of code across **7** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-23 | 1 | 0 | 0 | 0 | 0 | 9 |
-| 360d | 2025-11-24 | 8 | 0 | 0 | 0 | 0 | 29 |
-| last720d | 2024-11-29 | 11 | 0 | 0 | 0 | 0 | 39 |
+| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-24 | 1 | 0 | 0 | 0 | 0 | 9 |
+| 360d | 2025-11-25 | 8 | 0 | 0 | 0 | 0 | 29 |
+| last720d | 2024-11-30 | 11 | 0 | 0 | 0 | 0 | 39 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pgtree lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:57:22Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:17:07Z._
